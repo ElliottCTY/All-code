@@ -1,0 +1,28 @@
+x=[0,15,32,44,1,23,11]
+currentMax=x[0]
+if(currentMax<x[1]):
+    currentMax=x[1]
+else:
+    currentMax=currentMax
+if(currentMax<x[2]):
+    currentMax=x[2]
+else:
+    currentMax=currentMax
+if(currentMax<x[3]):
+    currentMax=x[3]
+else:
+    currentMax=currentMax
+if(currentMax<x[4]):
+    currentMax=x[4]
+else:
+    currentMax=currentMax
+if(currentMax<x[5]):
+    currentMax=x[5]
+else:
+    currentMax=currentMax
+if(currentMax<x[6]):
+    currentMax=x[6]
+else:
+    currentMax=currentMax
+    
+print(currentMax)

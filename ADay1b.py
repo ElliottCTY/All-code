@@ -1,0 +1,8 @@
+name=str(input("who is this list for? "))
+Item1=str(input("1/6 what do you want at the grocery store? "))
+Item2=str(input("2/6 what do you want? "))
+Item3=str(input("3/6 what do you want? "))
+Item4=str(input("4/6 what do you want? "))
+Item5=str(input("5/6 what do you want? "))
+Item6=str(input("6/6 what do you want? "))
+print(f"\n{name}'s grocery list\n\n{Item1}\n{Item2}\n{Item3}\n{Item4}\n{Item5}\n{Item6}\n")
